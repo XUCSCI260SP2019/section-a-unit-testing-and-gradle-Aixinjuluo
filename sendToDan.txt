@@ -1,0 +1,50 @@
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:01 build
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:12 src
+-rw-r--r--  1 zack  staff    0 Feb 16 21:26 sendToDan.txt
+
+./build:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:01 src
+
+./build/src:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:01 main
+
+./build/src/main:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:01 java
+
+./build/src/main/java:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:01 edu
+
+./build/src/main/java/edu:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:01 xavier
+
+./build/src/main/java/edu/xavier:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:13 csci
+
+./build/src/main/java/edu/xavier/csci:
+total 8
+-rw-r--r--  1 zack  staff  453 Feb 16 20:12 Helloworld.class
+
+./src:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:12 main
+
+./src/main:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:12 java
+
+./src/main/java:
+total 0
+drwxr-xr-x  4 zack  staff  128 Feb 16 20:12 edu
+
+./src/main/java/edu:
+total 0
+drwxr-xr-x  3 zack  staff  96 Feb 16 21:00 xavier
+
+./src/main/java/edu/xavier:
