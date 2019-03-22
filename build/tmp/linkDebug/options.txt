@@ -1,0 +1,4 @@
+-o
+/Users/zack/Documents/SE_assignment5/section-a-unit-testing-and-gradle-Aixinjuluo/build/exe/main/debug/Helloworl
+/Users/zack/Documents/SE_assignment5/section-a-unit-testing-and-gradle-Aixinjuluo/build/obj/main/debug/c0rn65lkroj8p4fvz0qgmzzjr/app.o
+-m64

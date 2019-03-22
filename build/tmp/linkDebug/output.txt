@@ -1,0 +1,4 @@
+See file:///Users/zack/Documents/SE_assignment5/section-a-unit-testing-and-gradle-Aixinjuluo/build/tmp/linkDebug/output.txt for all output for linkDebug.
+linking Helloworl successful.
+
+Finished linkDebug, see full log file:///Users/zack/Documents/SE_assignment5/section-a-unit-testing-and-gradle-Aixinjuluo/build/tmp/linkDebug/output.txt.

@@ -1,0 +1,4 @@
+See file:///Users/zack/Documents/SE_assignment5/section-a-unit-testing-and-gradle-Aixinjuluo/build/tmp/compileDebugCpp/output.txt for all output for compileDebugCpp.
+compiling app.cpp successful.
+
+Finished compileDebugCpp, see full log file:///Users/zack/Documents/SE_assignment5/section-a-unit-testing-and-gradle-Aixinjuluo/build/tmp/compileDebugCpp/output.txt.
